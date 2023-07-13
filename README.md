@@ -73,7 +73,9 @@ Throughout my career, I have demonstrated proficiency in full-stack development,
 - Frameworks and Libraries: Spring Boot, Symfony, Laravel, React.js, Next.js, Django
 - Databases: MySQL, MongoDB, OracleDb
 - Version Control: Git, GitHub, GitLab
-- Other: RESTful APIs, Agile Development, Scrum
+- Other: Docker, Algorithms, Design Patterns, RESTful APIs, Soap, UML, Agile Development, Scrum
+
+
 
 ## Languages 🌐
 | Language | Proficiency    |
@@ -82,7 +84,3 @@ Throughout my career, I have demonstrated proficiency in full-stack development,
 | French   | Proficient     |
 | Arabic   | Native Language|
 
-## My Git References 💻
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souhaib-allout&layout=compact)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=souhaib-allout&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=souhaib-allout&show_icons=true&theme=radical)
