@@ -1,7 +1,10 @@
-## Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="50px" width="50px">
+## Hello !! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="50px" width="50px">
 ![](https://visitor-badge.laobi.icu/badge?page_id=Ssouh)
 
-I'm **Souhail AMGHAR**, a passionate **Computer Science** engineering student, and I specialize in **Backend development** and **ERP/Data engineering**. I'm constantly expanding my knowledge and skills to develop high-performing applications.
+I'm **Souhaib ALLOUT**,  software engineer with over two years of professional experience, I have a passion for creating innovative and efficient solutions that meet the complex challenges of today's technological landscape. With a strong foundation in computer science and expertise in multiple programming languages, I consistently deliver robust and scalable software applications that exceed client expectations.
+
+Throughout my career, I have demonstrated proficiency in full-stack development, employing cutting-edge technologies and frameworks to build dynamic and user-friendly interfaces. I have successfully collaborated with cross-functional teams, leveraging agile methodologies to ensure timely project delivery and seamless integration.
+
 
 <p align="center" >
   <img src="https://images.squarespace-cdn.com/content/v1/580fa9f7e58c62cb7501937b/1496358009519-3OOP60SU1L9CWOXN544R/ke17ZwdGBToddI8pDm48kJRqFJ19D4P4EwsC9z3fiewUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2dn3So03l79BKEoq-AWKelKdncgyogL09V32_rYUHj6maCjLISwBs8eEdxAxTptZAUg/bedroom.gif?format=2500w" width="600" height="300">
@@ -20,18 +23,37 @@ I'm **Souhail AMGHAR**, a passionate **Computer Science** engineering student, a
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/82b5b967235e1523c03d7df5ab49b22eb8e4ff8e/topics/git/git.png"></code>
 
 ## How to reach me 📫
-* ✉️  [Email](mailto:Souhailamghar98@gmail.com)
-* 🐤 [Twitter](https://twitter.com/souhailAmgh) 
-* 👨💼 [LinkedIn](https://linkedin.com/in/souhail-amghar/)
+* ✉️  [Email](mailto:del.souhaib@gmail.com@gmail.com)
+* 👨💼 [LinkedIn](https://www.linkedin.com/in/souhaib-allout/)
 
 ## Resume
 
 ### Education
-- **B.S. in Computer Science** - [Your University](link), Year of Graduation
+- **Engineer's degree, Computer and network engineering** - [Ecole Marocaine des Sciences de l'ingénieur](https://www.emsi.ma) (Oct 2021 - Jul 2023)\
+  This diploma represents my pursuit of advanced knowledge and skills in the field of computer and network engineering. During my studies at Ecole Marocaine des Sciences de l'ingénieur, I gained a deep understanding of various engineering concepts related to computers and networks. This program equipped me with the necessary expertise to design, develop, and manage complex computer systems.
+
+- **Professional Bachelor's degree, Computer Science** - [UPM - Université Privée de Marrakech](http://upm.ac.ma) (Oct 2020 - Jan 2021)\
+  The Professional Bachelor's degree in Computer Science from UPM provided me with a solid foundation in computer science principles and practical skills. Throughout this program, I acquired knowledge in programming, database management, software development, and other fundamental aspects of computer science. This diploma showcases my ability to apply theoretical concepts to real-world scenarios.
+
+- **Specialized Technician, Computer Science** - [ISGI - Institut Spécialisé de Gestion et d'informatique](https://www.ofppt.ma) (Oct 2018 - Aug 2020)\
+  The Specialized Technician diploma in Computer Science from ISGI laid the groundwork for my career in the field of technology. This program focused on providing hands-on training and practical knowledge in various areas of computer science, including programming languages, computer networks, and systems administration. This diploma demonstrates my proficiency in implementing and troubleshooting computer systems and applications.
+
+- **High school degree, Sciences** - [Zerktouni High School](https://www.google.com/search?client=opera-gx&q=zerktouni+marrakech&sourceid=opera&ie=UTF-8&oe=UTF-8) (2016 - 2018)\
+  My high school degree in Sciences from Zerktouni High School marked the beginning of my educational journey in the field of technology. This diploma represents my strong foundation in scientific principles and critical thinking. It demonstrates my ability to grasp complex concepts, solve problems, and lays the groundwork for further specialization in computer science.
 
 ### Work Experience
-- **Software Engineering Intern** - [Company Name](link), Date Range\
-  *Responsibilities: Describe your tasks and accomplishments during the internship.*
+- **Software Engineer** - [VOYAGES FALHI-ESPACE-TOURISME](link), Full-time (Nov 2021 - Present)\
+  As a Software Engineer at Voyages Falhi-Espace-Tourisme, I have been entrusted with the responsibility of overseeing the IT department and contributing to the development and enhancement of various software solutions. In this role, I have been involved in designing, developing, testing, and deploying agency software applications.
+
+- **Web Developer** - [Softechers](link), Full-time (Dec 2020 - Mar 2021)\
+  As a Web Developer at Softechers, I played a crucial role in developing the company's software solutions, both on the frontend and backend. During my tenure, I worked on designing website templates and implementing backend functionalities using PHP Laravel.
+
+- **Web Developer** - [VIGON SYSTEMS](link), Internship (Nov 2020)\
+  During my internship at Vigon Systems, I had the opportunity to contribute to the development of an existing website by adding new functionalities. This hands-on experience allowed me to apply my web development skills and gain practical knowledge in enhancing website features.
+
+- **Web Developer** - [Engenering Inside](link), Internship (Apr 2020 - May 2020)\
+  During my internship at Engineering Inside, I had the opportunity to work as a Web Developer, primarily focusing on designing website templates and developing WordPress websites. This experience allowed me to enhance my skills in frontend development and gain hands-on experience with the WordPress platform.
+
 
 ### Projects
 - [Project 1](link): Short description of the project and your role.
@@ -39,18 +61,17 @@ I'm **Souhail AMGHAR**, a passionate **Computer Science** engineering student, a
 - [Project 3](link): Short description of the project and your role.
 
 ### Skills
-- Programming Languages: Java, Python, JavaScript
-- Frameworks and Libraries: Spring Boot, Node.js, React.js
-- Databases: MySQL, MongoDB, Firebase
-- Version Control: Git, GitHub
+- Programming Languages: Java, Php, JavaScript, Python
+- Frameworks and Libraries: Spring Boot, Symfony, Laravel, React.js, Next.js, Django
+- Databases: MySQL, MongoDB, OracleDb
+- Version Control: Git, GitHub, GitLab
 - Other: RESTful APIs, Agile Development, Scrum
 
 ## Languages 🌐
 | Language | Proficiency    |
 |----------|----------------|
 | English  | Fluent         |
-| French   | Fluent         |
-| German   | Beginner       |
+| French   | Proficient     |
 | Arabic   | Native Language|
 
 ## My Git References 💻
