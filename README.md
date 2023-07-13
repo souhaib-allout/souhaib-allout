@@ -64,9 +64,7 @@ Throughout my career, I have demonstrated proficiency in full-stack development,
 
 
 ### Projects
-- [Project 1](link): Short description of the project and your role.
-- [Project 2](link): Short description of the project and your role.
-- [Project 3](link): Short description of the project and your role.
+Soon
 
 ### Skills
 - Programming Languages: Java, Php, JavaScript, Python
