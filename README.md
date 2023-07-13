@@ -11,20 +11,28 @@ Throughout my career, I have demonstrated proficiency in full-stack development,
 </p>
 
 ## Languages and Tools 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) 
-![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=Java)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/82b5b967235e1523c03d7df5ab49b22eb8e4ff8e/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/82b5b967235e1523c03d7df5ab49b22eb8e4ff8e/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/82b5b967235e1523c03d7df5ab49b22eb8e4ff8e/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/82b5b967235e1523c03d7df5ab49b22eb8e4ff8e/topics/git/git.png"></code>
+<code> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="20" height="20" /> </code>
+<code> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="20" height="20" /> </code>
+<code> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Cloud" width="20" height="20" /> </code>
+<code> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="AssertJ" width="20" height="20" /> </code>
+<code> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="20" height="20" /> </code>
+<code> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" alt="Symfony" width="20" height="20" /> </code>
+<code> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="20" height="20" /> </code>
+<code> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHPUnit" width="20" height="20" /> </code>
+<code> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="20" height="20" /> </code>
+<code> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django.svg" alt="Django" width="20" height="20" /> </code>
+<code> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20" /> </code>
+<code> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js" width="20" height="20" /> </code>
+<code> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="20" height="20" /> </code>
+<code> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="20" height="20" /> </code>
+<code> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="20" height="20" /> </code>
+<code> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle Database" width="20" height="20" /> </code>
+<code> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="Amazon Web Services" width="20" height="20" /> </code>
+<code> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="20" height="20" /> </code>
+<code> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="20" height="20" /> </code>
 
-## How to reach me 📫
-* ✉️  [Email](mailto:del.souhaib@gmail.com@gmail.com)
-* 👨💼 [LinkedIn](https://www.linkedin.com/in/souhaib-allout/)
+
 
 ## Resume
 
@@ -75,5 +83,6 @@ Throughout my career, I have demonstrated proficiency in full-stack development,
 | Arabic   | Native Language|
 
 ## My Git References 💻
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ssouh&layout=compact)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ssouh&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souhaib-allout&layout=compact)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=souhaib-allout&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=souhaib-allout&show_icons=true&theme=radical)
