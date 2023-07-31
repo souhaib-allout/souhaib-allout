@@ -1,9 +1,8 @@
 ## Hello !! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="50px" width="50px">
 ![](https://visitor-badge.laobi.icu/badge?page_id=Ssouh)
 
-I'm **Souhaib ALLOUT**,  software engineer with over two years of professional experience, I have a passion for creating innovative and efficient solutions that meet the complex challenges of today's technological landscape. With a strong foundation in computer science and expertise in multiple programming languages, I consistently deliver robust and scalable software applications that exceed client expectations.
+Highly skilled software engineer with over two years of professional experience. Passionate about creating innovative and efficient solutions to tackle today's technological challenges. Proficient in full-stack development, employing cutting-edge technologies and agile methodologies to deliver robust and scalable software applications. Deep understanding of software architecture and design principles, allowing for the creation of elegant and maintainable systems. Actively engaged in continuous learning and staying up-to-date with industry trends. Effective communicator and collaborative
 
-Throughout my career, I have demonstrated proficiency in full-stack development, employing cutting-edge technologies and frameworks to build dynamic and user-friendly interfaces. I have successfully collaborated with cross-functional teams, leveraging agile methodologies to ensure timely project delivery and seamless integration.
 
 
 <p align="center" >
